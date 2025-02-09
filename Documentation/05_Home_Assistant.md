@@ -12,9 +12,11 @@ Below you'll find saved information about previous versions of HASP.
 
 Configuring Home Assistant for the HASP requires making some basic changes to your configuration and downloading the packages to your installation.  [Continue below]((#standard-home-assistant-installation) for a standard Home Assistant installation in a container (HassOS, HassIO, Docker, etc).
 
-The procedure will be a little different if you're running Home Assistant Core (venv, hassbian, or similar), so [skip to that section](#home-assistant-core-installation).
+The process differs if you're running Home Assistant Core (venv, Hassbian, etc.). Jump to [that section](#home-assistant-core-installation).
 
-Finally, if you'd rather make all the changes yourself, jump to the [Manual Home Assistant installation section](#manual-home-assistant-installation).
+If you would like to make all changes manually, you can just head to the [Manual Home Assistant installation section](#manual-home-assistant-installation)
+
+ 
 
 ## Standard Home Assistant installation
 
